@@ -192,7 +192,7 @@ blockquote:hover {
 
 /*Responsive Video*/
 .iframe {
-	boorder:0px;
+	border:0px;
 }
 .responsive-video {
  height: 0;
@@ -360,6 +360,11 @@ i.icon-line {
   color: #fff;
   background: #4765a0;
   border-color: #4765a0;
+}
+.team-v1 li > .team-img li i.fa-instagram:hover {
+  color: #fff;
+  background: linear-gradient(#405DE6, #5B51D8, #833AB4, #C13584, #E1306C,#FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+  border-color: #5C54C7;
 }
 
 .team-v1 li > .team-img li i.fa-google-plus:hover {
